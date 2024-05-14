@@ -1,0 +1,3 @@
+interface ImportAttributes {
+    type: "macro";
+}

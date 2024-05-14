@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "ESNext",
+            "DOM"
+        ],
+        "allowImportingTsExtensions": true,
+        "noEmit": true,
+        "module": "ESNext",
+        "moduleResolution": "Bundler",
+        "experimentalDecorators": false
+    }
+}

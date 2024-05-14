@@ -1,0 +1,21 @@
+{
+  "name": "parcel-demo",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "rimraf dist && parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/macros": "^2.12.0",
+    "js-md5": "^0.8.3",
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "mapbox-gl": "^3.3.0"
+  }
+}
